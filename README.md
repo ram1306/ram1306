@@ -12,7 +12,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  This is sri ram . I'm on a journey to become a proficient Data Scientist, exploring the fascinating world of Machine Learning, AI, and Data Science.
+  This is sri ram . I'm on a journey to become a aspiring Data Scientist, exploring the fascinating world of Machine Learning, AI, and Data Science.
 </p>
 
 <ul>
@@ -24,7 +24,7 @@
   
   💬 Ask me about Machine Learning, AI, Data Science, Python<br>
   
-  📫 You can reach me via email at <a href="namasriram06@gmail.com">namaraja18@gmail.com</a><br>
+  📫 You can reach me via email at <a href="namasriram06@gmail.com">namasriram06@gmail.com</a><br>
 </ul>
 
 <h2 align="left">Connect with Me</h2>
