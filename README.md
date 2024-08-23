@@ -20,11 +20,11 @@
   🔭 Currently, I'm exploring the world of LLMs (Language Model Models)<br>
   
   
-  🎓 Mechanical Engineering Graduate at [Aditya College Of Engineering And Technology](http://www.acet.ac.in/)<br>
+  🎓 computer science Graduate at [Aditya Degree College kakinada](http://www.acet.ac.in/)<br>
   
   💬 Ask me about Machine Learning, AI, Data Science, Python<br>
   
-  📫 You can reach me via email at <a href="mailto:gangaram7418@gmail.com">gangaram7418@gmail.com</a><br>
+  📫 You can reach me via email at <a href="namasriram06@gmail.com">namaraja18@gmail.com</a><br>
 </ul>
 
 <h2 align="left">Connect with Me</h2>
