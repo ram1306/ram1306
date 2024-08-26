@@ -102,7 +102,7 @@
 
 <h2 align="left">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GangadharNeelam&show_icons=true&locale=en" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ram1306&show_icons=true&locale=en" alt="GitHub Stats">
 </p>
 
 
