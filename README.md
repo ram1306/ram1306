@@ -20,8 +20,8 @@
   🔭 Currently, I'm exploring the world of LLMs (Language Model Models)<br>
   
   
-  🎓 computer science Graduate at [Aditya Degree College kakinada](http://www.acet.ac.in/)<br>
-  
+  🎓 Post Graduation at [Giet engineering college ]<br>
+    🎓 computer science Graduate at [Aditya Degree College kakinada](http://www.acet.ac.in/)<br>
   💬 Ask me about Machine Learning, AI, Data Science, Python<br>
   
   📫 You can reach me via email at <a href="namasriram06@gmail.com">namasriram06@gmail.com</a><br>
